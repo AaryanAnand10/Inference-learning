@@ -2,6 +2,9 @@
 
 A comprehensive exploration of probabilistic graphical models for financial analysis, risk assessment, and investment decision-making under uncertainty.
 
+![Screenshot](./Screenshot%202025-10-04%20134657.png)
+
+
 ## 🏦 Overview
 
 Bayesian Networks offer powerful tools for financial modeling by capturing complex dependencies between market variables and enabling probabilistic reasoning about financial outcomes. These methods are well-accepted and time-tested, providing valuable insights when applied properly to financial forecasting and analysis .
